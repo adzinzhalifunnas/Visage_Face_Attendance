@@ -1,0 +1,25 @@
+{
+    "students": [
+        {
+            "student_id": "2602063144",
+            "student_name": "Adzin Zhalifunnas",
+            "student_email": "adzin.zhalifunnas@binus.ac.id",
+            "student_class": "LC01",
+            "student_major": "Computer Science"
+        },
+        {
+            "student_id": "2602105840",
+            "student_name": "Bourne Dhiaze Jo",
+            "student_email": "bourne.dhiaze@binus.ac.id",
+            "student_class": "LC01",
+            "student_major": "Computer Science"
+        },
+        {
+            "student_id": "2602107070",
+            "student_name": "Meyliana",
+            "student_email": "meyliana001@binus.ac.id",
+            "student_class": "LC01",
+            "student_major": "Computer Science"
+        }
+    ]
+}
