@@ -19,4 +19,4 @@ git clone https://github.com/adzinzhalifunnas/Visage_Face_Attendance.git
 
 - Adzin Zhalifunnas - 2602063144
 - Bourne Dhiaze Jo - 2602105840
-- Stephen Hau - 2602107070
+- Meyliana - 2602107070
