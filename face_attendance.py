@@ -237,7 +237,10 @@ def start(
 
                                 else:
 
+                                    # get identity
                                     label = candidate["identity"]
+                                    # use formal photo for display
+                                    label = label.replace(label.split("/")[-1], "1.jpg")
                                     # to use this source image as is
                                     display_img = cv2.imread(label)
                                     # to use extracted face
