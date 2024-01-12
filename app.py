@@ -8,7 +8,7 @@ student_data_path = pathlib.Path(f"{data_path}/students.json")
 def main():
     student_data = livejson.File(student_data_path)
     student_helper = StudentHelper(student_data["students"])
-    time_threshold = 2.5
+    time_threshold = 2
     frame_threshold = 10
     face_attendance.start(db_path, student_helper, time_threshold=time_threshold, frame_threshold=frame_threshold)
 
